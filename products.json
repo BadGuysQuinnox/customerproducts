@@ -1,0 +1,12 @@
+[
+  {
+    "productId": 100,
+    "product_name": "cpu",
+    "price": 2000.5,
+    "available_quantity": 50,
+    "description": "64GB Ram,back-color",
+    "offers": [
+      "Diwali Exclusive offer for every sale blutooth Head set free"
+    ]
+  }
+]
